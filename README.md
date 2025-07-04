@@ -16,7 +16,7 @@ This project is a **Power BI dashboard** that analyzes **gender-based pay gaps, 
 
 ---
 
-## ✅ Recommendations (from dashboard)
+## ✅ Recommendations 
 
 - Conduct a detailed gender-based pay audit.
 - Investigate roles where males may be underpaid despite higher representation.
