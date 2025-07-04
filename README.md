@@ -35,7 +35,7 @@ This project is a **Power BI dashboard** that analyzes **gender-based pay gaps, 
 
 ## 🖼 Screenshot
 
-![Dashboard Screenshot](Palmoria Dashboard.jpg)
+![Dashboard Screenshot](Palmoria dashboard.jpg)
 
 ---
 
